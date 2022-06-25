@@ -33,7 +33,7 @@ setup(
         version=get_version("deeprc/__init__.py"),
         author="Michael Widrich",
         author_email="widrich@ml.jku.at",
-        url="https://github.com/ml-jku/DeepRC",
+        url="https://github.com/bioorg/DeepRC",
         description=(
             "DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning"
         ),
